@@ -1,0 +1,17 @@
+  DESCRIPTION                  VALUE
+========================================
+  Method                       rectangle   
+  Segments                     32   
+  Area                         0.98
+  x_min                        0.00
+  x_max                        1.57
+  x_mean                       0.79
+  x_delta_min                  0.00
+  x_delta_max                  0.05
+  y_min                        0.00
+  y_max                        1.00
+  y_mean                       0.63
+  y_delta_min                  0.00
+  y_delta_max                  0.05
+========================================
+

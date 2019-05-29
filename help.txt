@@ -1,0 +1,31 @@
+Number of Arguments: 2
+Value of first Arguments: P5.exe
+Value of all Arguments:
+	0: P5.exe
+	1: /h
+  Help Mode
+================
+========================================
+FILE: P5.exe
+Vers: 1.0.0 10/05/2018 ETR
+Desc: Integral Calculator File I/O
+_________________________________________
+Usage:
+    /i - Interactive mode
+        /r - rectangular approximation
+        /t - trapezoidal approximation
+    /p - Parameter mode
+        /r - rectangular approximation
+            <inputFilename>
+            <outputFilename>
+        /t - trapezoidal approximation
+            <inputFilename>
+            <outputFilename>
+    /h - Help
+        /r - rectangular approximation
+        /t - trapezoidal approximation
+        /ex - examples
+    NOTE: INCLUDE FILE EXTENSION IN NAME
+========================================
+
+Help explicitly called.
